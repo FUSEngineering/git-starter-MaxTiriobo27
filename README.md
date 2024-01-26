@@ -1,3 +1,4 @@
+1/26/2024 Max Tiriobod
 # :wave: The Basics of GitHub 
 
 ## 🤓 Course overview and learning outcomes 
